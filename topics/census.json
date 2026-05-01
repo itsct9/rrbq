@@ -1,0 +1,12 @@
+{
+  "topic": "census",
+  "exams": {
+  "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
+    {
+      "title": "Census",
+      "slug": "census-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/census/census-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ]
+}
+}

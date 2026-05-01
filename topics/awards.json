@@ -1,0 +1,12 @@
+{
+  "topic": "awards",
+  "exams": {
+  "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
+    {
+      "title": "Awards & Honours",
+      "slug": "awards-honours-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/awards/awards-honours-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ]
+}
+}

@@ -1,0 +1,52 @@
+{
+  "topic": "geography",
+  "exams": {
+  "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
+    {
+      "title": "Geography PART-1",
+      "slug": "geography-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/geography/geography-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Geography PART-2",
+      "slug": "geography-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/geography/geography-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Geography PART-3",
+      "slug": "geography-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/geography/geography-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Geography PART-4",
+      "slug": "geography-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/geography/geography-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Geography PART-5",
+      "slug": "geography-part-5-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/geography/geography-part-5-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Geography PART-6",
+      "slug": "geography-part-6-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/geography/geography-part-6-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Geography PART-7",
+      "slug": "geography-part-7-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/geography/geography-part-7-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Geography PART-8",
+      "slug": "geography-part-8-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/geography/geography-part-8-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Geography PART-9",
+      "slug": "geography-part-9-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/geography/geography-part-9-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ]
+}
+}

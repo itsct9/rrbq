@@ -1,0 +1,22 @@
+{
+  "topic": "government-schemes",
+  "exams": {
+  "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
+    {
+      "title": "Government Schemes PART-1",
+      "slug": "government-schemes-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/government-schemes/government-schemes-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Government Schemes PART-2",
+      "slug": "government-schemes-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/government-schemes/government-schemes-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Government Schemes PART-3",
+      "slug": "government-schemes-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/government-schemes/government-schemes-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ]
+}
+}

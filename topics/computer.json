@@ -1,0 +1,57 @@
+{
+  "topic": "computer",
+  "exams": {
+  "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
+    {
+      "title": "Computer PART-1",
+      "slug": "computer-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/computer/computer-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Computer PART-2",
+      "slug": "computer-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/computer/computer-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Computer PART-3",
+      "slug": "computer-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/computer/computer-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Computer PART-4",
+      "slug": "computer-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/computer/computer-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Computer PART-5",
+      "slug": "computer-part-5-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/computer/computer-part-5-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Computer PART-6",
+      "slug": "computer-part-6-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/computer/computer-part-6-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Computer PART-7",
+      "slug": "computer-part-7-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/computer/computer-part-7-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Computer PART-8",
+      "slug": "computer-part-8-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/computer/computer-part-8-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Computer PART-9",
+      "slug": "computer-part-9-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/computer/computer-part-9-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Computer PART-10",
+      "slug": "computer-part-10-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/computer/computer-part-10-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ]
+}
+}

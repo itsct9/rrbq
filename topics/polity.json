@@ -1,0 +1,17 @@
+{
+  "topic": "polity",
+  "exams": {
+  "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
+    {
+      "title": "Polity PART-1",
+      "slug": "polity-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/polity/polity-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-2",
+      "slug": "polity-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/polity/polity-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ]
+}
+}

@@ -1,0 +1,92 @@
+{
+  "topic": "current-affairs",
+  "exams": {
+  "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
+    {
+      "title": "Current Affairs PART-1",
+      "slug": "current-affairs-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-2",
+      "slug": "current-affairs-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-3",
+      "slug": "current-affairs-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-4",
+      "slug": "current-affairs-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-5",
+      "slug": "current-affairs-part-5-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-5-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-6",
+      "slug": "current-affairs-part-6-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-6-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-7",
+      "slug": "current-affairs-part-7-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-7-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-8",
+      "slug": "current-affairs-part-8-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-8-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-9",
+      "slug": "current-affairs-part-9-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-9-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-10",
+      "slug": "current-affairs-part-10-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-10-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-11",
+      "slug": "current-affairs-part-11-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-11-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-12",
+      "slug": "current-affairs-part-12-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-12-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-13",
+      "slug": "current-affairs-part-13-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-13-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-14",
+      "slug": "current-affairs-part-14-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-14-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-15",
+      "slug": "current-affairs-part-15-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-15-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-16",
+      "slug": "current-affairs-part-16-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-16-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-17",
+      "slug": "current-affairs-part-17-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-17-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ]
+}
+}

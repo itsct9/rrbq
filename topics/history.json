@@ -1,0 +1,67 @@
+{
+  "topic": "history",
+  "exams": {
+  "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
+    {
+      "title": "Ancient History PART-1",
+      "slug": "ancient-history-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/ancient-history-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-1",
+      "slug": "modern-history-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/modern-history-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Ancient History PART-2",
+      "slug": "ancient-history-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/ancient-history-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-2",
+      "slug": "modern-history-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/modern-history-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Ancient History PART-3",
+      "slug": "ancient-history-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/ancient-history-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-3",
+      "slug": "modern-history-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/modern-history-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Ancient History PART-4",
+      "slug": "ancient-history-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/ancient-history-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-4",
+      "slug": "modern-history-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/modern-history-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-5",
+      "slug": "modern-history-part-5-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/modern-history-part-5-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-6",
+      "slug": "modern-history-part-6-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/modern-history-part-6-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-7",
+      "slug": "modern-history-part-7-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/modern-history-part-7-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Medieval History",
+      "slug": "medieval-history-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/history/medieval-history-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ]
+}
+}

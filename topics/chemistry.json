@@ -1,0 +1,17 @@
+{
+  "topic": "chemistry",
+  "exams": {
+  "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
+    {
+      "title": "Chemistry PART-1",
+      "slug": "chemistry-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/chemistry/chemistry-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Chemistry PART-2",
+      "slug": "chemistry-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/chemistry/chemistry-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ]
+}
+}

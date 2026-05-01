@@ -1,0 +1,12 @@
+{
+  "topic": "books-and-authors",
+  "exams": {
+  "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
+    {
+      "title": "Books & Authors",
+      "slug": "books-authors-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/books-and-authors/books-authors-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ]
+}
+}

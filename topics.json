@@ -1,0 +1,74 @@
+{
+  "topics": [
+    {
+      "name": "Art And Culture",
+      "slug": "art-and-culture",
+      "exam_api": "topics/art-and-culture.json"
+    },
+    {
+      "name": "Awards",
+      "slug": "awards",
+      "exam_api": "topics/awards.json"
+    },
+    {
+      "name": "Biology",
+      "slug": "biology",
+      "exam_api": "topics/biology.json"
+    },
+    {
+      "name": "Books And Authors",
+      "slug": "books-and-authors",
+      "exam_api": "topics/books-and-authors.json"
+    },
+    {
+      "name": "Census",
+      "slug": "census",
+      "exam_api": "topics/census.json"
+    },
+    {
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "exam_api": "topics/chemistry.json"
+    },
+    {
+      "name": "Computer",
+      "slug": "computer",
+      "exam_api": "topics/computer.json"
+    },
+    {
+      "name": "Current Affairs",
+      "slug": "current-affairs",
+      "exam_api": "topics/current-affairs.json"
+    },
+    {
+      "name": "Economy",
+      "slug": "economy",
+      "exam_api": "topics/economy.json"
+    },
+    {
+      "name": "Geography",
+      "slug": "geography",
+      "exam_api": "topics/geography.json"
+    },
+    {
+      "name": "Government Schemes",
+      "slug": "government-schemes",
+      "exam_api": "topics/government-schemes.json"
+    },
+    {
+      "name": "History",
+      "slug": "history",
+      "exam_api": "topics/history.json"
+    },
+    {
+      "name": "Physics",
+      "slug": "physics",
+      "exam_api": "topics/physics.json"
+    },
+    {
+      "name": "Polity",
+      "slug": "polity",
+      "exam_api": "topics/polity.json"
+    }
+  ]
+}

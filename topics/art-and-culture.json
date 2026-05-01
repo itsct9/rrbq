@@ -1,0 +1,27 @@
+{
+  "topic": "art-and-culture",
+  "exams": {
+  "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
+    {
+      "title": "Art & Culture PART-1",
+      "slug": "art-culture-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/art-and-culture/art-culture-part-1-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Art & Culture PART-2",
+      "slug": "art-culture-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/art-and-culture/art-culture-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Art & Culture PART-3",
+      "slug": "art-culture-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/art-and-culture/art-culture-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    },
+    {
+      "title": "Art & Culture PART-4",
+      "slug": "art-culture-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1",
+      "question_file": "questions/art-and-culture/art-culture-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ]
+}
+}
