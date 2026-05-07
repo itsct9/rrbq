@@ -7,6 +7,13 @@
       "slug": "books-authors-rrb-ntpc-graduate-level-2024-25-cbt-1",
       "question_file": "questions/books-and-authors/books-authors-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
     }
+  ],
+  "RRB NTPC UG 2025 CBT-1":   [
+    {
+      "title": "Books & Authors",
+      "slug": "books-authors-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/books-and-authors/books-authors-rrb-ntpc-ug-2025-cbt-1.json"
+    }
   ]
 }
 }

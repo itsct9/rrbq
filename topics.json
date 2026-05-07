@@ -69,6 +69,11 @@
       "name": "Polity",
       "slug": "polity",
       "exam_api": "topics/polity.json"
+    },
+    {
+      "name": "Static",
+      "slug": "static",
+      "exam_api": "topics/static.json"
     }
   ]
 }

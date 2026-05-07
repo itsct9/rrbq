@@ -22,6 +22,38 @@
       "slug": "art-culture-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1",
       "question_file": "questions/art-and-culture/art-culture-part-4-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
     }
+  ],
+  "RRB NTPC UG 2025 CBT-1":   [
+    {
+      "title": "Art & Culture PART-1",
+      "slug": "art-culture-part-1-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/art-and-culture/art-culture-part-1-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Art & Culture PART-2",
+      "slug": "art-culture-part-2-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/art-and-culture/art-culture-part-2-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Dance",
+      "slug": "dance-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/art-and-culture/dance-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Festivals",
+      "slug": "festivals-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/art-and-culture/festivals-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Music",
+      "slug": "music-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/art-and-culture/music-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Temple",
+      "slug": "temple-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/art-and-culture/temple-rrb-ntpc-ug-2025-cbt-1.json"
+    }
   ]
 }
 }

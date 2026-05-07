@@ -1,0 +1,24 @@
+{
+  "topic": "static",
+  "exams": {
+  "RRB JE 2025-26 CBT-1":   [
+    {
+      "title": "Gk Miscellaneous",
+      "slug": "gk-miscellaneous-rrb-je-2025-26-cbt-1",
+      "question_file": "questions/static/gk-miscellaneous-rrb-je-2025-26-cbt-1.json"
+    }
+  ],
+  "RRB NTPC UG 2025 CBT-1":   [
+    {
+      "title": "Miscellaneous",
+      "slug": "miscellaneous-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/static/miscellaneous-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Sports",
+      "slug": "sports-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/static/sports-rrb-ntpc-ug-2025-cbt-1.json"
+    }
+  ]
+}
+}

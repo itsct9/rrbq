@@ -1,6 +1,35 @@
 {
   "topic": "physics",
   "exams": {
+  "RRB ALP 2025-26 CBT-1":   [
+    {
+      "title": "Physics PART-1",
+      "slug": "physics-part-1-rrb-alp-2025-26-cbt-1",
+      "question_file": "questions/physics/physics-part-1-rrb-alp-2025-26-cbt-1.json"
+    },
+    {
+      "title": "Physics PART-2",
+      "slug": "physics-part-2-rrb-alp-2025-26-cbt-1",
+      "question_file": "questions/physics/physics-part-2-rrb-alp-2025-26-cbt-1.json"
+    }
+  ],
+  "RRB JE 2025-26 CBT-1":   [
+    {
+      "title": "Physics PART-1",
+      "slug": "physics-part-1-rrb-je-2025-26-cbt-1",
+      "question_file": "questions/physics/physics-part-1-rrb-je-2025-26-cbt-1.json"
+    },
+    {
+      "title": "Physics PART-2",
+      "slug": "physics-part-2-rrb-je-2025-26-cbt-1",
+      "question_file": "questions/physics/physics-part-2-rrb-je-2025-26-cbt-1.json"
+    },
+    {
+      "title": "Physics PART-3",
+      "slug": "physics-part-3-rrb-je-2025-26-cbt-1",
+      "question_file": "questions/physics/physics-part-3-rrb-je-2025-26-cbt-1.json"
+    }
+  ],
   "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
     {
       "title": "Physics PART-1",
@@ -11,6 +40,23 @@
       "title": "Physics PART-2",
       "slug": "physics-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
       "question_file": "questions/physics/physics-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ],
+  "RRB NTPC UG 2025 CBT-1":   [
+    {
+      "title": "Physics PART-1",
+      "slug": "physics-part-1-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/physics/physics-part-1-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Physics PART-2",
+      "slug": "physics-part-2-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/physics/physics-part-2-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Physics PART-3",
+      "slug": "physics-part-3-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/physics/physics-part-3-rrb-ntpc-ug-2025-cbt-1.json"
     }
   ]
 }

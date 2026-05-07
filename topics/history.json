@@ -1,6 +1,13 @@
 {
   "topic": "history",
   "exams": {
+  "RRB JE 2025-26 CBT-1":   [
+    {
+      "title": "History",
+      "slug": "history-rrb-je-2025-26-cbt-1",
+      "question_file": "questions/history/history-rrb-je-2025-26-cbt-1.json"
+    }
+  ],
   "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
     {
       "title": "Ancient History PART-1",
@@ -61,6 +68,78 @@
       "title": "Medieval History",
       "slug": "medieval-history-rrb-ntpc-graduate-level-2024-25-cbt-1",
       "question_file": "questions/history/medieval-history-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ],
+  "RRB NTPC UG 2025 CBT-1":   [
+    {
+      "title": "Ancient History PART-1",
+      "slug": "ancient-history-part-1-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/ancient-history-part-1-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Medieval History PART-1",
+      "slug": "medieval-history-part-1-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/medieval-history-part-1-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-1",
+      "slug": "modern-history-part-1-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/modern-history-part-1-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Ancient History PART-2",
+      "slug": "ancient-history-part-2-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/ancient-history-part-2-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Medieval History PART-2",
+      "slug": "medieval-history-part-2-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/medieval-history-part-2-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-2",
+      "slug": "modern-history-part-2-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/modern-history-part-2-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Ancient History PART-3",
+      "slug": "ancient-history-part-3-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/ancient-history-part-3-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Medieval History PART-3",
+      "slug": "medieval-history-part-3-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/medieval-history-part-3-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-3",
+      "slug": "modern-history-part-3-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/modern-history-part-3-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-4",
+      "slug": "modern-history-part-4-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/modern-history-part-4-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-5",
+      "slug": "modern-history-part-5-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/modern-history-part-5-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-6",
+      "slug": "modern-history-part-6-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/modern-history-part-6-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-7",
+      "slug": "modern-history-part-7-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/modern-history-part-7-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Modern History PART-8",
+      "slug": "modern-history-part-8-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/history/modern-history-part-8-rrb-ntpc-ug-2025-cbt-1.json"
     }
   ]
 }

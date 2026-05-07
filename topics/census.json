@@ -7,6 +7,13 @@
       "slug": "census-rrb-ntpc-graduate-level-2024-25-cbt-1",
       "question_file": "questions/census/census-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
     }
+  ],
+  "RRB NTPC UG 2025 CBT-1":   [
+    {
+      "title": "Census",
+      "slug": "census-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/census/census-rrb-ntpc-ug-2025-cbt-1.json"
+    }
   ]
 }
 }

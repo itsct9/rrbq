@@ -1,6 +1,20 @@
 {
   "topic": "current-affairs",
   "exams": {
+  "RRB ALP 2025-26 CBT-1":   [
+    {
+      "title": "Current Affairs",
+      "slug": "current-affairs-rrb-alp-2025-26-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-rrb-alp-2025-26-cbt-1.json"
+    }
+  ],
+  "RRB JE 2025-26 CBT-1":   [
+    {
+      "title": "Current Affairs",
+      "slug": "current-affairs-rrb-je-2025-26-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-rrb-je-2025-26-cbt-1.json"
+    }
+  ],
   "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
     {
       "title": "Current Affairs PART-1",
@@ -86,6 +100,153 @@
       "title": "Current Affairs PART-17",
       "slug": "current-affairs-part-17-rrb-ntpc-graduate-level-2024-25-cbt-1",
       "question_file": "questions/current-affairs/current-affairs-part-17-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ],
+  "RRB NTPC UG 2025 CBT-1":   [
+    {
+      "title": "Current Affairs PART-1",
+      "slug": "current-affairs-part-1-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-1-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-2",
+      "slug": "current-affairs-part-2-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-2-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-3",
+      "slug": "current-affairs-part-3-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-3-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-4",
+      "slug": "current-affairs-part-4-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-4-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-5",
+      "slug": "current-affairs-part-5-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-5-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-6",
+      "slug": "current-affairs-part-6-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-6-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-7",
+      "slug": "current-affairs-part-7-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-7-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-8",
+      "slug": "current-affairs-part-8-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-8-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-9",
+      "slug": "current-affairs-part-9-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-9-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-10",
+      "slug": "current-affairs-part-10-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-10-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-11",
+      "slug": "current-affairs-part-11-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-11-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-12",
+      "slug": "current-affairs-part-12-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-12-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-13",
+      "slug": "current-affairs-part-13-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-13-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-14",
+      "slug": "current-affairs-part-14-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-14-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-15",
+      "slug": "current-affairs-part-15-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-15-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-16",
+      "slug": "current-affairs-part-16-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-16-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-17",
+      "slug": "current-affairs-part-17-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-17-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-18",
+      "slug": "current-affairs-part-18-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-18-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-19",
+      "slug": "current-affairs-part-19-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-19-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-20",
+      "slug": "current-affairs-part-20-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-20-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-21",
+      "slug": "current-affairs-part-21-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-21-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-22",
+      "slug": "current-affairs-part-22-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-22-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-23",
+      "slug": "current-affairs-part-23-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-23-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-24",
+      "slug": "current-affairs-part-24-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-24-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-25",
+      "slug": "current-affairs-part-25-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-25-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-26",
+      "slug": "current-affairs-part-26-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-26-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-27",
+      "slug": "current-affairs-part-27-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-27-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-28",
+      "slug": "current-affairs-part-28-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-28-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Current Affairs PART-29",
+      "slug": "current-affairs-part-29-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/current-affairs/current-affairs-part-29-rrb-ntpc-ug-2025-cbt-1.json"
     }
   ]
 }

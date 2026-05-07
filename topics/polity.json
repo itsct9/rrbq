@@ -1,6 +1,20 @@
 {
   "topic": "polity",
   "exams": {
+  "RRB ALP 2025-26 CBT-1":   [
+    {
+      "title": "Polity",
+      "slug": "polity-rrb-alp-2025-26-cbt-1",
+      "question_file": "questions/polity/polity-rrb-alp-2025-26-cbt-1.json"
+    }
+  ],
+  "RRB JE 2025-26 CBT-1":   [
+    {
+      "title": "Polity",
+      "slug": "polity-rrb-je-2025-26-cbt-1",
+      "question_file": "questions/polity/polity-rrb-je-2025-26-cbt-1.json"
+    }
+  ],
   "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
     {
       "title": "Polity PART-1",
@@ -11,6 +25,68 @@
       "title": "Polity PART-2",
       "slug": "polity-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
       "question_file": "questions/polity/polity-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ],
+  "RRB NTPC UG 2025 CBT-1":   [
+    {
+      "title": "Polity PART-1",
+      "slug": "polity-part-1-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-1-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-2",
+      "slug": "polity-part-2-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-2-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-3",
+      "slug": "polity-part-3-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-3-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-4",
+      "slug": "polity-part-4-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-4-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-5",
+      "slug": "polity-part-5-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-5-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-6",
+      "slug": "polity-part-6-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-6-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-7",
+      "slug": "polity-part-7-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-7-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-8",
+      "slug": "polity-part-8-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-8-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-9",
+      "slug": "polity-part-9-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-9-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-10",
+      "slug": "polity-part-10-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-10-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-11",
+      "slug": "polity-part-11-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-11-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Polity PART-12",
+      "slug": "polity-part-12-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/polity/polity-part-12-rrb-ntpc-ug-2025-cbt-1.json"
     }
   ]
 }

@@ -1,6 +1,30 @@
 {
   "topic": "chemistry",
   "exams": {
+  "RRB ALP 2025-26 CBT-1":   [
+    {
+      "title": "Chemistry",
+      "slug": "chemistry-rrb-alp-2025-26-cbt-1",
+      "question_file": "questions/chemistry/chemistry-rrb-alp-2025-26-cbt-1.json"
+    }
+  ],
+  "RRB JE 2025-26 CBT-1":   [
+    {
+      "title": "Chemistry PART-1",
+      "slug": "chemistry-part-1-rrb-je-2025-26-cbt-1",
+      "question_file": "questions/chemistry/chemistry-part-1-rrb-je-2025-26-cbt-1.json"
+    },
+    {
+      "title": "Chemistry PART-2",
+      "slug": "chemistry-part-2-rrb-je-2025-26-cbt-1",
+      "question_file": "questions/chemistry/chemistry-part-2-rrb-je-2025-26-cbt-1.json"
+    },
+    {
+      "title": "Chemistry PART-3",
+      "slug": "chemistry-part-3-rrb-je-2025-26-cbt-1",
+      "question_file": "questions/chemistry/chemistry-part-3-rrb-je-2025-26-cbt-1.json"
+    }
+  ],
   "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
     {
       "title": "Chemistry PART-1",
@@ -11,6 +35,23 @@
       "title": "Chemistry PART-2",
       "slug": "chemistry-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1",
       "question_file": "questions/chemistry/chemistry-part-2-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ],
+  "RRB NTPC UG 2025 CBT-1":   [
+    {
+      "title": "Chemistry PART-1",
+      "slug": "chemistry-part-1-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/chemistry/chemistry-part-1-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Chemistry PART-2",
+      "slug": "chemistry-part-2-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/chemistry/chemistry-part-2-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Chemistry PART-3",
+      "slug": "chemistry-part-3-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/chemistry/chemistry-part-3-rrb-ntpc-ug-2025-cbt-1.json"
     }
   ]
 }

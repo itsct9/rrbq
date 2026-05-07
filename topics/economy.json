@@ -1,6 +1,13 @@
 {
   "topic": "economy",
   "exams": {
+  "RRB JE 2025-26 CBT-1":   [
+    {
+      "title": "Economics",
+      "slug": "economics-rrb-je-2025-26-cbt-1",
+      "question_file": "questions/economy/economics-rrb-je-2025-26-cbt-1.json"
+    }
+  ],
   "RRB NTPC (Graduate Level) 2024-25 CBT-1":   [
     {
       "title": "Economics PART-1",
@@ -41,6 +48,43 @@
       "title": "Economics PART-8",
       "slug": "economics-part-8-rrb-ntpc-graduate-level-2024-25-cbt-1",
       "question_file": "questions/economy/economics-part-8-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
+    }
+  ],
+  "RRB NTPC UG 2025 CBT-1":   [
+    {
+      "title": "Economics PART-1",
+      "slug": "economics-part-1-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/economy/economics-part-1-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Economics PART-2",
+      "slug": "economics-part-2-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/economy/economics-part-2-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Economics PART-3",
+      "slug": "economics-part-3-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/economy/economics-part-3-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Economics PART-4",
+      "slug": "economics-part-4-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/economy/economics-part-4-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Economics PART-5",
+      "slug": "economics-part-5-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/economy/economics-part-5-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Economics PART-6",
+      "slug": "economics-part-6-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/economy/economics-part-6-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Economics PART-7",
+      "slug": "economics-part-7-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/economy/economics-part-7-rrb-ntpc-ug-2025-cbt-1.json"
     }
   ]
 }

@@ -17,6 +17,23 @@
       "slug": "government-schemes-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1",
       "question_file": "questions/government-schemes/government-schemes-part-3-rrb-ntpc-graduate-level-2024-25-cbt-1.json"
     }
+  ],
+  "RRB NTPC UG 2025 CBT-1":   [
+    {
+      "title": "Govt. Schemes PART-1",
+      "slug": "govt-schemes-part-1-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/government-schemes/govt-schemes-part-1-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Govt. Schemes PART-2",
+      "slug": "govt-schemes-part-2-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/government-schemes/govt-schemes-part-2-rrb-ntpc-ug-2025-cbt-1.json"
+    },
+    {
+      "title": "Govt. Schemes PART-3",
+      "slug": "govt-schemes-part-3-rrb-ntpc-ug-2025-cbt-1",
+      "question_file": "questions/government-schemes/govt-schemes-part-3-rrb-ntpc-ug-2025-cbt-1.json"
+    }
   ]
 }
 }
